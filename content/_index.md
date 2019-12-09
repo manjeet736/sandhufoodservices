@@ -35,7 +35,7 @@ sections:
       by sitting in their homes according their taste at minimal cost. In this
       way, they will not face any traffic problem. In result, they will save
       their time. The special Indian food also will attract the permanent
-      residents of sault Ste. Marie because this food will healthy food for
+      residents of Sault Ste. Marie because this food will healthy food for
       them. As we all know, most of the people are health conscious and cannot
       eat restaurants’ s food.
     title: Accumsan mus tortor nunc aliquet
