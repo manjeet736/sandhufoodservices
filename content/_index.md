@@ -11,11 +11,8 @@ banner:
     is_scrolly: true
     label: Learn More
     url: '#one'
-  subtitle: |-
-    Blandit duis accumsan  
-    arcu sagittis viverra  
-    blandit at Interdum.
-  title: Spectral
+  subtitle: Me Roti bna k khvani aa sareya nu
+  title: Sandhu Food Services
 sections:
   - background_style: style1
     component: icons.html
