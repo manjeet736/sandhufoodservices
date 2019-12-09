@@ -38,7 +38,7 @@ sections:
       residents of Sault Ste. Marie because this food will healthy food for
       them. As we all know, most of the people are health conscious and cannot
       eat restaurants’ s food.
-    title: Accumsan mus tortor nunc aliquet
+    title: Value Proposition
     type: features
   - actions:
       - is_primary: true
