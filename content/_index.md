@@ -4,7 +4,7 @@ banner:
   actions:
     - is_primary: true
       is_scrolly: false
-      label: Activate
+      label: Vision
       url: /generic
   bottom_link:
     has_arrow: true
@@ -40,21 +40,6 @@ sections:
       eat restaurants’ s food.
     title: Value Proposition
     type: features
-  - actions:
-      - is_primary: true
-        is_scrolly: false
-        label: Activate
-        url: /generic
-      - is_primary: false
-        is_scrolly: false
-        label: Learn More
-        url: /generic
-    background_style: style4
-    component: cta.html
-    section_id: cta
-    text: ''
-    title: Arcue ut vel commodo
-    type: cta
 menu:
   main:
     name: Home
