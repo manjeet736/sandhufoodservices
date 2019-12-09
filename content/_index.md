@@ -11,7 +11,9 @@ banner:
     is_scrolly: true
     label: Learn More
     url: '#one'
-  subtitle: Me Roti bna k khvani aa sareya nu
+  subtitle: >-
+    Value Proposition describes why my business is unique from all other
+    businesses.
   title: Sandhu Food Services
 sections:
   - background_style: style1
