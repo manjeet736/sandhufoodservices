@@ -3,9 +3,9 @@ title: Sandhu Food Services
 banner:
   actions: []
   bottom_link:
-    has_arrow: false
+    has_arrow: true
     is_scrolly: true
-    label: ''
+    label: Contact
     url: ''
   subtitle: >-
     I am creating a website to provide Indian street food to everyone in Sault
