@@ -1,6 +1,6 @@
 ---
 title: Finance
-subtitle: ''
+subtitle: "These below are the given items to start my business. Which include utensils which will cost\r\n\naround $5000 in first month and could reach to $10000 for the year whereas license cost will\r\n\nstay at $2000 for the year. My business will require around $6000 for year. May salary, delivery\r\n\nboys salary and cook salary would cost me around $25000 monthly and $250000 yearly."
 background_style: style5
 menu:
   main:
