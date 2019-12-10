@@ -3,10 +3,10 @@ title: Sandhu Food Services
 banner:
   actions: []
   bottom_link:
-    has_arrow: true
-    is_scrolly: true
-    label: Learn More
-    url: '#one'
+    has_arrow: false
+    is_scrolly: false
+    label: ''
+    url: ''
   subtitle: >-
     I am creating a website to provide Indian street food to everyone in Sault
     Ste Marie.
