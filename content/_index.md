@@ -11,9 +11,7 @@ banner:
     is_scrolly: true
     label: Learn More
     url: '#one'
-  subtitle: >-
-    Value Proposition describes why my business is unique from all other
-    businesses.
+  subtitle: I am providing Indian street food to everyone.
   title: Sandhu Food Services
 sections:
   - background_style: style2
