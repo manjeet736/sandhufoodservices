@@ -1,11 +1,7 @@
 ---
 title: Sandhu Food Services
 banner:
-  actions:
-    - is_primary: true
-      is_scrolly: false
-      label: Vision
-      url: /vision
+  actions: []
   bottom_link:
     has_arrow: true
     is_scrolly: true
