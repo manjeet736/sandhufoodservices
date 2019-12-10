@@ -1,5 +1,6 @@
 ---
 title: Vision
+subtitle: It defines concise meaning and purpose of my website for homemade delivery
 background_style: style5
 menu:
   main:
