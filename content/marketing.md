@@ -1,6 +1,6 @@
 ---
 title: Marketing
-subtitle: ''
+subtitle: How will my food reach out to customers?
 background_style: style5
 menu:
   main:
