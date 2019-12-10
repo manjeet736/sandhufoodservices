@@ -4,7 +4,7 @@ banner:
   actions: []
   bottom_link:
     has_arrow: false
-    is_scrolly: false
+    is_scrolly: true
     label: ''
     url: ''
   subtitle: >-
